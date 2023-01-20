@@ -1,0 +1,50 @@
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 02:08:20:820"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 62.611 ms 64.088 userId= -","timestamp":"2022-06-19 02:08:20:820"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 02:41:33:4133"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 61.011 ms 62.464 userId= -","timestamp":"2022-06-19 02:41:33:4133"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 02:48:24:4824"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 59.574 ms 60.729 userId= -","timestamp":"2022-06-19 02:48:24:4824"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 02:48:28:4828"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 37.467 ms 37.832 userId= -","timestamp":"2022-06-19 02:48:28:4828"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 19:36:26:3626"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 37.375 ms 38.379 userId= -","timestamp":"2022-06-19 19:36:26:3626"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 400 1387 6.363 ms 6.652 userId= -","timestamp":"2022-06-19 19:36:49:3649"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 22:19:02:192"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 37.088 ms 38.051 userId= -","timestamp":"2022-06-19 22:19:02:192"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-19 23:46:50:4650"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 37.801 ms 38.771 userId= -","timestamp":"2022-06-19 23:46:50:4650"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 GET /v1/users 200 222 3.633 ms 4.184 userId= -","timestamp":"2022-06-19 23:47:10:4710"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-20 00:02:24:224"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 406 36.578 ms 37.514 userId= -","timestamp":"2022-06-20 00:02:24:224"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 GET /v1/users 200 222 3.212 ms 3.489 userId= -","timestamp":"2022-06-20 00:02:32:232"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 GET /v1/users 401 1361 3.517 ms 3.830 userId= -","timestamp":"2022-06-20 00:02:36:236"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 GET /v1/users 200 222 1.551 ms 1.729 userId= -","timestamp":"2022-06-20 00:02:44:244"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 PATCH /v1/users/3383ef38-0040-4f2b-b6fb-fe51c3d7375c 200 50 17.187 ms 17.402 userId= -","timestamp":"2022-06-20 00:03:59:359"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 GET /v1/users 200 233 2.233 ms 2.447 userId= -","timestamp":"2022-06-20 00:04:01:41"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:07:13:713"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 48.037 ms 49.069 userId= -","timestamp":"2022-06-22 00:07:13:713"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 400 1449 1.537 ms 1.958 userId= -","timestamp":"2022-06-22 00:07:27:727"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:07:35:735"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 19.214 ms 19.435 userId= -","timestamp":"2022-06-22 00:07:36:736"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:07:58:758"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 46.434 ms 47.468 userId= -","timestamp":"2022-06-22 00:07:58:758"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:07:59:759"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 19.507 ms 19.800 userId= -","timestamp":"2022-06-22 00:07:59:759"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:08:06:86"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 42.681 ms 43.700 userId= -","timestamp":"2022-06-22 00:08:06:86"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-06-22 00:08:07:87"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 541 17.826 ms 18.064 userId= -","timestamp":"2022-06-22 00:08:07:87"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-07-25 23:05:17:517"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 543 47.942 ms 48.934 userId= -","timestamp":"2022-07-25 23:05:17:517"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-07-25 23:05:43:543"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 200 421 18.455 ms 18.694 userId= -","timestamp":"2022-07-25 23:05:43:543"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-07-25 23:07:33:733"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 543 16.877 ms 17.093 userId= -","timestamp":"2022-07-25 23:07:33:733"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-07-25 23:08:05:85"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 543 40.721 ms 41.775 userId= -","timestamp":"2022-07-25 23:08:05:85"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2022-07-25 23:13:14:1314"}
+{"errorMessage":"Not Found","errorRaw":null,"errorType":"General","errors":["Incorrect email or password"],"errorsValidation":null,"level":"error","message":"Not Found","stack":"CustomError: Not Found\n    at AuthenticationController.<anonymous> (/home/vjori/personal/ts-typeorm-express-auth/src/controllers/auth/AuthenticationController.ts:50:25)\n    at Generator.next (<anonymous>)\n    at fulfilled (/home/vjori/personal/ts-typeorm-express-auth/src/controllers/auth/AuthenticationController.ts:14:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-07-25 23:13:14:1314"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 543 43.606 ms 45.014 userId= -","timestamp":"2022-07-25 23:13:14:1314"}
+{"level":"info","message":"Before login","service":"/auth/login","source":"login","timestamp":"2023-01-20 15:15:01:151"}
+{"errorMessage":"Not Found","errorRaw":null,"errorType":"General","errors":["Incorrect email or password"],"errorsValidation":null,"level":"error","message":"Not Found","stack":"CustomError: Not Found\n    at AuthenticationController.<anonymous> (/home/vjori/personal/ts-typeorm-express-auth/src/controllers/auth/AuthenticationController.ts:50:25)\n    at Generator.next (<anonymous>)\n    at fulfilled (/home/vjori/personal/ts-typeorm-express-auth/src/controllers/auth/AuthenticationController.ts:14:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-01-20 15:15:01:151"}
+{"level":"http","message":"::1 - - PostmanRuntime/7.28.4 POST /v1/auth/login 404 543 45.198 ms 46.944 userId= -","timestamp":"2023-01-20 15:15:01:151"}
